@@ -11,11 +11,6 @@ import java.util.Set;
 
 import static java.util.stream.Collectors.joining;
 
-/**
- * @description: 实体校验
- * @author: gengzhenhua
- * @date : 2020/11/15 9:30 上午
- **/
 @Component
 public class DataValidateHelper implements BeanPostProcessor {
 

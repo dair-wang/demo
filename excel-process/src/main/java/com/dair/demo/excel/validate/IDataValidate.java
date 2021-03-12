@@ -10,11 +10,6 @@ import java.util.Map;
 
 import static java.util.stream.Collectors.toList;
 
-/**
- * @description: TODO
- * @author: gengzhenhua
- * @date : 2020/10/26 11:40 上午
- **/
 public interface IDataValidate<E extends Base, F extends Base, U extends BaseFilter> {
 
     /**
